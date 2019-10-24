@@ -32,7 +32,7 @@
     "eslint": "5.14.1"
   },
   "devDependencies": {
-    "@ember/optional-features": "^0.6.3",
+    "@ember/optional-features": "^1.1.0",
     "@embroider/compat": "^0.0.5",
     "@embroider/core": "^0.0.5",
     "@embroider/webpack": "^0.0.5",
