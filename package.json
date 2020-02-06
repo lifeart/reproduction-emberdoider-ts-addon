@@ -25,7 +25,7 @@
   "dependencies": {
     "@babel/core": "7.3.3",
     "babel-eslint": "^10.0.1",
-    "ember-cli-babel": "^7.4.3",
+    "ember-cli-babel": "^7.17.1",
     "ember-cli-htmlbars": "^3.0.1",
     "ember-cli-typescript": "^2.0.0-rc.2",
     "@ember-decorators/babel-transforms": "^5.1.3",
