@@ -1054,10 +1054,10 @@
   dependencies:
     "@types/handlebars" "*"
 
-"@types/ember__test-helpers@^0.7.7":
-  version "0.7.7"
-  resolved "https://registry.yarnpkg.com/@types/ember__test-helpers/-/ember__test-helpers-0.7.7.tgz#b11832e5e622c1e61f96d8477845a84b5ec348c3"
-  integrity sha512-Agvz+92jejB/Fy4jf0qhii6bOeXrPXZUWkGGlbNT5VXppRbQaQirjML/NSoGm93dU/o2JD/E9Ax8ZOFSthGkDw==
+"@types/ember__test-helpers@^0.7.11":
+  version "0.7.11"
+  resolved "https://registry.yarnpkg.com/@types/ember__test-helpers/-/ember__test-helpers-0.7.11.tgz#e28daf5167b15ed7dd9e53603f8aa2af4db0fccc"
+  integrity sha512-YZajMQrTLGx/FV26W3peXuKThoPW6e28o+NM+ytr++SLs1f54D6K9HmEiOpBzpYl7nIORqWUfURtypp51IeswA==
   dependencies:
     "@types/ember" "*"
     "@types/ember__application" "*"
